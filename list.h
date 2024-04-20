@@ -15,4 +15,3 @@ void remove(TIPODATO x,List &lista);                   // Elimina el primer x qu
 void clear(List &lista);                               // Elimina todos los elementos de una lista
 void remove_all(TIPODATO x, List &lista);              // Elimina todos los x que se encuentren
 void bubbleSort(List &lista);                          // Ordena de menor a mayor toda la lista
-

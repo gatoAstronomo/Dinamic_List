@@ -3,6 +3,6 @@ all:
 		g++ -c list.cpp
 		g++ -c main.cpp
 
-		g++ -o ejecutable list.o main.o
+		g++ -o main.exe list.o main.o
 		rm *.o
-		./ejecutable
+		./main.exe
